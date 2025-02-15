@@ -1,2 +1,2 @@
-Movie Recommendation System
-Image_Classification_Using_CNN
+- Movie Recommendation System
+- Image_Classification_Using_CNN
