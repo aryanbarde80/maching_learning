@@ -1,2 +1,4 @@
 - Movie Recommendation System
 - Image_Classification_Using_CNN :- Deep Learning Project
+- Titanic_Survival_Prediction :- DL
+- Heart Disease Detection :- ml
